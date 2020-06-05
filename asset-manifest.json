@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dopetest_react/static/css/main.c1e4e9ef.chunk.css",
+    "main.js": "/dopetest_react/static/js/main.93532f78.chunk.js",
+    "main.js.map": "/dopetest_react/static/js/main.93532f78.chunk.js.map",
+    "runtime-main.js": "/dopetest_react/static/js/runtime-main.f3c8c91a.js",
+    "runtime-main.js.map": "/dopetest_react/static/js/runtime-main.f3c8c91a.js.map",
+    "static/js/2.4ae32c79.chunk.js": "/dopetest_react/static/js/2.4ae32c79.chunk.js",
+    "static/js/2.4ae32c79.chunk.js.map": "/dopetest_react/static/js/2.4ae32c79.chunk.js.map",
+    "index.html": "/dopetest_react/index.html",
+    "precache-manifest.073fc80e92e8f54016e2ebdd5f34b479.js": "/dopetest_react/precache-manifest.073fc80e92e8f54016e2ebdd5f34b479.js",
+    "service-worker.js": "/dopetest_react/service-worker.js",
+    "static/css/main.c1e4e9ef.chunk.css.map": "/dopetest_react/static/css/main.c1e4e9ef.chunk.css.map",
+    "static/js/2.4ae32c79.chunk.js.LICENSE.txt": "/dopetest_react/static/js/2.4ae32c79.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dopetest_react/static/media/IBMPlexMono-Regular.5632af57.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c8c91a.js",
+    "static/js/2.4ae32c79.chunk.js",
+    "static/css/main.c1e4e9ef.chunk.css",
+    "static/js/main.93532f78.chunk.js"
+  ]
+}
