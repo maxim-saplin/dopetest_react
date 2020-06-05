@@ -1,5 +1,8 @@
 ## https://maxim-saplin.github.io/dopetest_react/
 
+Note 10 Snapdragon 855, Kiwi Browser
+
+![UI](https://github.com/maxim-saplin/dopetest_react/blob/master/Screenshot_20200605-233001_Kiwi%20Browser.jpg?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
